@@ -1,3 +1,5 @@
+require 'pry'
+
 describe 'Song' do
   
   before(:example) {
